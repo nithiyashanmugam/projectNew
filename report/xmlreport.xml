@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.242" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Login feature" name="Test the Login page sending data directly in featre file" time="0.03">
+<failure/>
+<system-out><![CDATA[
+Given User is on Login Page.................................................undefined
+When User Enter Username "Admin" and Password "admin123"....................skipped
+And User click on Login button..............................................skipped
+Then Validate user is on Homepage...........................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
